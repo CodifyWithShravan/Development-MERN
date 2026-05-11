@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,6 +189,6 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "23384a1e08e14031",
+  "active": "87052f545587dfac",
   "lastOpenFiles": []
 }
