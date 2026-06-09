@@ -1,1 +1,0 @@
-- A database is a place to store the data or its an organised collection of structured and unstructured information stored on a machine or in the cloud
